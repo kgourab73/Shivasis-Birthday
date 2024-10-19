@@ -1,6 +1,6 @@
 import Content from "./components/Content";
 import Equipment from "./components/Equipment";
-import EquipmentForm from "./components/form";
+import EquipmentForm from "./components/Form";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import Whatsapp from "./components/Whatsapp";
